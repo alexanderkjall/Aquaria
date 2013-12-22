@@ -44,7 +44,7 @@ $ make
   default)
 
 $ cp aquaria ~/aquaria/
-$ cp -r ../games_scripts/* ~/aquaria
+$ cp -r ../game_scripts/* ~/aquaria
 $ cp -r ../files/* ~/aquaria
 
 You should *not* remove any file from the aquaria installation, just
